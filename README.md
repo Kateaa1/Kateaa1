@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kate
 - 👀 I’m interested in Coding, Linux, games, cats
-- 🌱 I’m currently learning Mostly python
+- 🌱 I’m currently learning Mostly python and C
 - 💞️ I’m looking to collaborate on we'll see
-- 📫 How to reach me discord: @katea1
+- 📫 How to reach me discord: @katelyntea1
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: Aussie yay
